@@ -38,6 +38,8 @@ En esta interfaz, el docente puede visualizar una tabla con el ID del estudiante
 
 Para visualizar las gráficas, se debe seleccionar la opción “Mostrar Gráficas”, la cual presenta automáticamente dos gráficas generadas de acuerdo a los resultados obtenidos. En la parte derecha se muestra un gráfico circular, en términos de porcentajes, que clasifica la cantidad de estudiantes que hacen parte de las dominancias. En la parte izquierda se presenta un gráfico de barras, que permite determinar el total de estudiantes pertenecientes a cada dominancia. 
 
+![Tabla de Resultados](https://raw.githubusercontent.com/Deiby-Zair/XBlock-Estilos-de-aprendizaje/tree/main/img/res_tabla.png)
+
 ## 3.2 Vista Estudiante
 
 El estudiante visualiza la interfaz principal que contiene las 40 preguntas correspondientes al test que se ha seleccionado previamente, en este caso es Bandler-Grinder.\\
